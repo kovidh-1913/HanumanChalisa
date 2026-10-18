@@ -1,9 +1,10 @@
-# 🕉️ Hanuman Chalisa Telugu
+# 🕉️ Hanuman Chalisa Hindi
 
-హనుమాన్ చాలీసా స్పష్టమైన తెలుగు అక్షరాలలో చదువుకోవడానికి ఉపయోగపడే వెబ్‌సైట్.
+तेलुगु अक्षरों में हनुमान चालीसा पढ़ने के लिए एक सरल और सुंदर वेबसाइट।
 
 ## 🌐 Live Website Link
-👉 **[ఇక్కడ క్లిక్ చేసి చదవండి (Click Here)](Mee_Published_Site_Link_Ikkada_Pettandi)**
+👉 **[पढ़ने के लिए यहाँ क्लिक करें (Click Here)](https://kovidh-1913.github.io/HanumanChalisa/
+)**
 
 ---
 
@@ -11,4 +12,4 @@
 * HTML, CSS, JavaScript
 
 ### 🙋‍♂️ Author
-* [Mee Peru](https://github.com)
+* [Kovidhh Balivada](https://github.com)
